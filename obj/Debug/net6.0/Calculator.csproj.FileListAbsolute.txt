@@ -1,0 +1,15 @@
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\bin\Debug\net6.0\ref\Calculator.dll
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\Projetos\C#\Cursos\Carreira Desenvolvedor Backend .NET - balta.io\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
